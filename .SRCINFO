@@ -1,6 +1,6 @@
 pkgbase = sonic-desktop-interface
 	pkgdesc = Sonic Desktop Interface
-	pkgver = 6.6.2.5
+	pkgver = 6.6.3
 	pkgrel = 1
 	url = https://github.com/Sonic-DE/sonic-desktop-interface
 	arch = x86_64
@@ -92,7 +92,7 @@ pkgbase = sonic-desktop-interface
 	optdepends = scim: kimpanel SCIM support
 	provides = plasma-desktop
 	conflicts = plasma-desktop
-	source = https://github.com/Sonic-DE/sonic-desktop-interface/archive/refs/tags/6.6.2.5.tar.gz
-	sha256sums = 2dff847c415c953968511ac0f01170aa8fe65a18433a873bc94a5f7da34321c7
+	source = https://github.com/Sonic-DE/sonic-desktop-interface/archive/refs/tags/6.6.3.tar.gz
+	sha256sums = 6ff49cbc2b7c146250c66cf70667ad2161119169fb6eaba51b3f750ada88ae82
 
 pkgname = sonic-desktop-interface
