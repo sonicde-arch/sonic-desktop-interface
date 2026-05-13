@@ -24,7 +24,6 @@ depends=(attica
          kcrash
          kdbusaddons
          kdeclarative
-         kglobalaccel
          kguiaddons
          ki18n
          kiconthemes
@@ -44,10 +43,8 @@ depends=(attica
          kservice
          ksvg
          kwidgetsaddons
-         kwindowsystem
          kxmlgui
          libcanberra
-         libksysguard
          libwacom
          libx11
          libxcb
@@ -55,7 +52,6 @@ depends=(attica
          libxi
          libxkbcommon
          libxkbfile
-         libplasma
          plasma-activities
          plasma-activities-stats
          sonic-win
@@ -68,6 +64,10 @@ depends=(attica
          qt6-declarative
          sdl2
          solid
+         sonic-frameworks-keybind
+         sonic-frameworks-windowsystem
+         sonic-interface-libraries
+         sonic-sysguard-library
          sonnet
          systemsettings
          xcb-util-keysyms
