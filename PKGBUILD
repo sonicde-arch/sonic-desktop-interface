@@ -5,7 +5,7 @@ pkgver=6.6.4.1
 pkgrel=1
 pkgdesc='Sonic Desktop Interface'
 arch=(x86_64)
-url="https://github.com/Sonic-DE/$pkgname"
+url='https://github.com/Sonic-DE/sonic-desktop-interface'
 license=(LGPL-2.0-or-later)
 depends=(attica
          baloo
@@ -54,8 +54,6 @@ depends=(attica
          libxkbfile
          plasma-activities
          plasma-activities-stats
-         sonic-win
-         sonic-workspace
          plasma5support
          polkit-kde-agent
          powerdevil
@@ -68,6 +66,8 @@ depends=(attica
          sonic-frameworks-windowsystem
          sonic-interface-libraries
          sonic-sysguard-library
+         sonic-win
+         sonic-workspace
          sonnet
          systemsettings
          xcb-util-keysyms
